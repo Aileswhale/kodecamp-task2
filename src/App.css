@@ -1,38 +1,46 @@
-.App {
-  text-align: center;
+.body{
+padding: 0;
+width: 90%;
+margin: 0 auto;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.headerDiv{
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  padding: 2rem 0 0 1rem;
+}
+.bodyDiv{
+  padding: 0.7rem;
+  background-color:#EAECF0;
+  width: 85%;
+  margin: 0.2rem 0;
+  border-radius: 3px;
+  color: #101828;
+  text-align: center;
+}
+.SocialDiv img{
+  margin: 1rem;
 }
 
-.App-link {
-  color: #61dafb;
+.footerDiv{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* .............. MOBILE VIEW ............ */
+
+@media only screen and (max-width: 768px) {
+  .footerDiv {
+      /* display: flex;
+      flex-direction: column;
+      justify-content: left;
+      align-items: left; */
+      display: block;
+
+  
+    }
 }
