@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kodeccamp-task2/static/css/main.3e2050ab.css",
+    "main.js": "/kodeccamp-task2/static/js/main.7710d995.js",
+    "static/js/787.0b18623f.chunk.js": "/kodeccamp-task2/static/js/787.0b18623f.chunk.js",
+    "static/media/profile__img.png": "/kodeccamp-task2/static/media/profile__img.b33c6bf9c168d35372e1.png",
+    "index.html": "/kodeccamp-task2/index.html",
+    "main.3e2050ab.css.map": "/kodeccamp-task2/static/css/main.3e2050ab.css.map",
+    "main.7710d995.js.map": "/kodeccamp-task2/static/js/main.7710d995.js.map",
+    "787.0b18623f.chunk.js.map": "/kodeccamp-task2/static/js/787.0b18623f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2050ab.css",
+    "static/js/main.7710d995.js"
+  ]
+}
