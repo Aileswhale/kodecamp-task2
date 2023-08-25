@@ -14,12 +14,12 @@ const Main = () => {
         <h2>John Doe</h2>
       </div>
       <div className="mainDiv headerDiv">
-        <div className="bodyDiv"> Twitter Link</div>
-        <div className="bodyDiv">KodeCamp Team</div>
-        <div className="bodyDiv">KodeCamp Books</div>
-        <div className="bodyDiv">Python Books</div>
-        <div className="bodyDiv">Background Check for Coders</div>
-        <div className="bodyDiv">Design Books</div>
+        <div className="bodyDiv"><button>Twitter Link</button> </div>
+        <div className="bodyDiv"><button>KodeCamp Team</button></div>
+        <div className="bodyDiv"><button>KodeCamp Books</button></div>
+        <div className="bodyDiv"><button>Python Books</button></div>
+        <div className="bodyDiv"><button>Background Check for Coders</button></div>
+        <div className="bodyDiv"><button>Design Books</button></div>
 
         <div className="SocialDiv">
           <img src={slack} alt="slack logo"></img>

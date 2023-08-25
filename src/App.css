@@ -11,15 +11,20 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   align-items: center;
   padding: 2rem 0 0 1rem;
 }
-.bodyDiv{
-  padding: 0.7rem;
+
+
+.mainDiv button {
+  padding: 0.7rem ;
   background-color:#EAECF0;
-  width: 85%;
   margin: 0.2rem 0;
+  width: 25rem;
   border-radius: 3px;
   color: #101828;
   text-align: center;
+  border-style: none;
+  cursor: pointer;
 }
+
 .SocialDiv img{
   margin: 1rem;
 }
